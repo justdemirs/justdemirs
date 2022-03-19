@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Fıratcan Ulukaya</h1>
-<h3 align="center">A frontend developer from Northern Cyprus</h3>
+<h1 align="center">Hi 👋, I'm Eren Berat Demir</h1>
+<h3 align="center">A frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **frtcn@sade.network**
+- 📫 How to reach me **demireren7227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
