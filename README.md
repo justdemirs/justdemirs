@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Demir</h1>
 <h3 align="center">A frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.LUA**
 
 - 📫 How to reach me **demireren7227@gmail.com**
 
